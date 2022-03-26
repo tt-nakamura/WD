@@ -1,0 +1,10 @@
+# White Dwarf mass-radius relation
+# reference: J. L. Provencal, et al.
+#   The Astrophysical Journal 494 (1998) 759
+# column1: mass / solar mass
+# column2: error in mass / solar mass
+# column3: radius / solar radius
+# column4: error in radius / solar radius
+0.604 0.018 0.0096 0.0004 # Procyon B
+1.000 0.016 0.0084 0.0002 # Sirius B
+0.501 0.011 0.0136 0.0002 # 40 Eridani B
